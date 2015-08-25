@@ -1,6 +1,6 @@
 ##声明
 
-此模块是在https://github.com/brg-liuwei/ngx_kafka_module基础上改写，将原来的向单个broker发送
+此模块是在 https://github.com/brg-liuwei/ngx_kafka_module 基础上改写，将原来的向单个broker发送
 POST请求，改为可以向broker集群发送POST请求。
 在此对brg_liuwei表示由衷的感谢。
 
